@@ -1,0 +1,36 @@
+/* Make the background full screen*/
+#background {
+    width: 100%;
+}
+
+/* Make the images of players circular*/
+.fit {
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+}
+
+/* Assign the type of font, its colour and background colour*/
+body {
+    background-color:#292b2c;
+    color: white;
+    font-family: monospace;
+}
+
+/* Adjust the info paragraph position in every page*/
+.player_paragraph {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+/* Add a white border to every added video */
+.videos{
+    border-width:10px;
+    border-color:white;
+}
+
+#part2{
+    margin-top:70px;
+}
